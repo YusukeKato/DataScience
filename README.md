@@ -1,5 +1,5 @@
 # DataScience
-# I will be a data scientist.
+# I want to be a data scientist.
 
 ・モンテカルロ法
 
